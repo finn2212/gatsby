@@ -3,6 +3,11 @@ backend:
   
 media_folder: static/assets
 public_folder: assets
+
+backend:
+  name: github
+  repo: finn2212/gatsby
+  branch: master
   
 collections:
   - name: blog
